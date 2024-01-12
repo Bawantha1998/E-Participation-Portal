@@ -20,7 +20,7 @@ import BeachAccessIcon from "@mui/icons-material/BeachAccess";
 import AccessTimeFilledSharpIcon from "@mui/icons-material/AccessTimeFilledSharp";
 import Typography from "@mui/material/Typography";
 import Box from "@mui/material/Box";
-
+//
 const EventView = () => {
   const boldStyle = {
     fontWeight: "bold",
